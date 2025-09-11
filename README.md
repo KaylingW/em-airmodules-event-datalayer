@@ -317,7 +317,7 @@ Refer to [Event Object Parameters](#event-object-parameters) below for a detaile
 | no_match          | Fare Finder Genie AI prompt returned no results      |
 | like_prompt       | User liked a Fare Finder Genie AI prompt             |
 | unlike_prompt     | User disliked a Fare Finder Genie AI prompt          |
-| link_click    | User clicked on a route link         |
+| link_click        | User clicked on a route link                          |
 
 </details>
 
