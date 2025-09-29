@@ -20,7 +20,7 @@
   "keywords": [
     "everymundo"
   ],
-  "author": "Kayling <kayling@everymundo.com>",
+  "author": "Kayling <kwong01@pros.com>",
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.17.9",
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EveryMundo/em-airmodules-event-datalayer.git"
+    "url": "git+https://github.com/pros-inc/om-em-airmodules-event-datalayer"
   },
   "bugs": {
-    "url": "https://github.com/EveryMundo/em-airmodules-event-datalayer/issues"
+    "url": "https://github.com/pros-inc/om-em-airmodules-event-datalayer/issues"
   },
-  "homepage": "https://github.com/EveryMundo/em-airmodules-event-datalayer#readme"
+  "homepage": "https://github.com/pros-inc/om-em-airmodules-event-datalayer#readme"
 }
